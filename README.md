@@ -12,6 +12,7 @@ Exploring the long-term changes that can happen in the consumption and creation 
 - Consumer Apps:
   - A new experience of reading the news. It provides not just the news article, but contextual information on top of it.
   - A way for consumers to want to stay updated on a news topic. This is if you want to stay updated to the ISIS bombing. We know that ISIS bombing is a "topic" in the database that has several "articles" underneath it. Then when a new article is added to that topic you can push to that user.
+  - Catch up on X or something like "You missed news X" while you were gone. 
 
 ### Problems
 
