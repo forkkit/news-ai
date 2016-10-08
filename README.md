@@ -12,9 +12,15 @@ Exploring the long-term changes that can happen in the consumption and creation 
 - Consumer Apps:
   - A new experience of reading the news. It provides not just the news article, but contextual information on top of it.
   - A way for consumers to want to stay updated on a news topic. This is if you want to stay updated to the ISIS bombing. We know that ISIS bombing is a "topic" in the database that has several "articles" underneath it. Then when a new article is added to that topic you can push to that user.
-  - Catch up on X or something like "You missed news X" while you were gone. 
+  - Catch up on X or something like "You missed news X" while you were gone.
 
 ### Problems
 
 - There's a lot of news. How can you get it, analyze it, and use it to predict things?
 - How can you model things like Timelines and key topics that occur in news?
+
+### Notes
+
+- Individual contributors are now able to build up their own brand given the new social media aspects of things. This is a way to centralize and provide a platform for them to be able to get up to date news information, but also be able to explore archival information for news.
+
+We can generate things like timelines for entities, entity information, old news articles, articles written about same perspective by different publishers, etc.
