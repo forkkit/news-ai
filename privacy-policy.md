@@ -1,45 +1,44 @@
 Privacy policy
-1.  Introduction
-1.1 We are committed to safeguarding the privacy of our website visitors; in this policy we explain how we will treat your personal information.
-1.2 [We will ask you to consent to our use of cookies in accordance with the terms of this policy when you first visit our website.] OR [By using our website and agreeing to this policy, you consent to our use of cookies in accordance with the terms of this policy.]
-2.  Credit
-2.1 This document was created using a template from SEQ Legal (http://www.seqlegal.com).
-You must retain the above credit. Use of this document without the credit is an infringement of copyright. However, you can purchase from us an equivalent document that does not include the credit.
-3.  Collecting personal information
-3.1 We may collect, store and use the following kinds of personal information: 
-(a) [information about your computer and about your visits to and use of this website (including [your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views and website navigation paths])];
-(b) [information that you provide to us when registering with our website (including [your email address])];
-(c) [information that you provide when completing your profile on our website (including [your name, profile pictures, gender, date of birth, relationship status, interests and hobbies, educational details and employment details])];
-(d) [information that you provide to us for the purpose of subscribing to our email notifications and/or newsletters (including [your name and email address])];
-(e) [information that you provide to us when using the services on our website, or that is generated in the course of the use of those services (including [the timing, frequency and pattern of service use])];
-(f) [information relating to any purchases you make of our [goods] OR [services] OR [goods and/or services] or any other transactions that you enter into through our website (including [your name, address, telephone number, email address and card details])];
-(g) [information that you post to our website for publication on the internet (including [your user name, your profile pictures and the content of your posts])];
-(h) [information contained in or relating to any communication that you send to us or send through our website (including [the communication content and metadata associated with the communication])]; and
-(i) [any other personal information that you choose to send to us].
-[additional list items]
-3.2 Before you disclose to us the personal information of another person, you must obtain that person's consent to both the disclosure and the processing of that personal information in accordance with this policy.
-4.  Using personal information
-4.1 Personal information submitted to us through our website will be used for the purposes specified in this policy or on the relevant pages of the website.
-4.2 We may use your personal information to: 
-(a) [administer our website and business];
-(b) [personalise our website for you];
-(c) [enable your use of the services available on our website];
-(d) [send you goods purchased through our website];
-(e) [supply to you services purchased through our website];
-(f) [send statements, invoices and payment reminders to you, and collect payments from you];
-(g) [send you non-marketing commercial communications];
-(h) [send you email notifications that you have specifically requested];
-(i) [send you our email newsletter, if you have requested it (you can inform us at any time if you no longer require the newsletter)];
-(j) [send you marketing communications relating to our business [or the businesses of carefully-selected third parties] which we think may be of interest to you, by post or, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications)];
-(k) [provide third parties with statistical information about our users (but those third parties will not be able to identify any individual user from that information)];
-(l) [deal with enquiries and complaints made by or about you relating to our website];
-(m) [keep our website secure and prevent fraud]; and
-(n) [verify compliance with the terms and conditions governing the use of our website [(including monitoring private messages sent through our website private messaging service)]].
-[additional list items]
-4.3 If you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the licence you grant to us.
-4.4 Your privacy settings can be used to limit the publication of your information on our website, and can be adjusted using privacy controls on the website.
-4.5 We will not, without your express consent, supply your personal information to any third party for the purpose of their or any other third party's direct marketing.
-4.6 All our website financial transactions are handled through our payment services provider, [PSP name]. You can review the provider's privacy policy at [URL]. We will share information with our payment services provider only to the extent necessary for the purposes of processing payments you make via our website, refunding such payments and dealing with complaints and queries relating to such payments and refunds.
+
+This policy was last updated on October 8, 2016.
+
+At NewsAI, we are committed to safeguarding the privacy of our website visitors; in this policy we explain how we will treat your personal information. In this Privacy Policy, we describe the information that we collect about you on this website (our "Site"), and how we use and disclose that information. We will ask you to consent to our use of cookies in accordance with the terms of this policy when you first visit our website.
+
+By visiting the Site or using any of our services available on our Site, you agree that your information will be handled as described in this Policy. If you purchase our Products, your use of those Products also will be governed by the Privacy Policy for NewsAI Products, available on the websites for the applicable Products. If there is any conflict between that policy and this one, the terms of that policy will govern.
+
+1.  Collecting personal information
+ 
+We may collect, store and use the following kinds of personal information: 
+
+- information about your computer and about your visits to and use of this website (including your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views and website navigation paths);
+- information that you provide to us when registering with our website (including your email address);
+- information that you provide when completing your profile on our website (including your name, profile pictures, gender, date of birth);
+- information that you provide to us for the purpose of subscribing to our email notifications and/or newsletters (including your name and email address);
+- information that you provide to us when using the services on our website, or that is generated in the course of the use of those services (including the timing, frequency and pattern of service use);
+- information relating to any purchases you make of our services or any other transactions that you enter into through our website (including your name, address, telephone number, and email address);
+- information contained in or relating to any communication that you send to us or send through our website (including the communication content and metadata associated with the communication); and
+- any other personal information that you choose to send to us.
+
+2.  Using personal information
+
+Personal information submitted to us through our website will be used for the purposes specified in this policy or on the relevant pages of the website. We may use your personal information to: 
+
+- administer our website and business;
+- personalise our website for you;
+- enable your use of the services available on our website;
+- supply to you services purchased through our website;
+- send statements, invoices and payment reminders to you, and collect payments from you;
+- send you non-marketing commercial communications;
+- send you email notifications that you have specifically requested;
+- send you our email newsletter, if you have requested it (you can inform us at any time if you no longer require the newsletter);
+- send you marketing communications relating to our business [or the businesses of carefully-selected third parties] which we think may be of interest to you, by post or, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications);
+- deal with enquiries and complaints made by or about you relating to our website; and
+- keep our website secure and prevent fraud;
+
+If you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the licence you grant to us. We will not, without your express consent, supply your personal information to any third party for the purpose of their or any other third party's direct marketing.
+
+All our website financial transactions are handled through our payment services provider, Stripe. You can review the provider's privacy policy at https://stripe.com/us/privacy/. We will share information with our payment services provider only to the extent necessary for the purposes of processing payments you make via our website, refunding such payments and dealing with complaints and queries relating to such payments and refunds.
+
 5.  Disclosing personal information
 5.1 We may disclose your personal information to [any of our employees, officers, insurers, professional advisers, agents, suppliers or subcontractors] insofar as reasonably necessary for the purposes set out in this policy.
 5.2 We may disclose your personal information to any member of our group of companies (this means our subsidiaries, our ultimate holding company and all its subsidiaries) insofar as reasonably necessary for the purposes set out in this policy.
@@ -120,3 +119,7 @@ You must retain the above credit. Use of this document without the credit is an 
 (c) [by telephone, on [the contact number published on our website from time to time]]; or
 (d) [by email, using [the email address published on our website from time to time]].
 [additional list items]
+
+2.  Credit
+2.1 This document was created using a template from SEQ Legal (http://www.seqlegal.com).
+You must retain the above credit. Use of this document without the credit is an infringement of copyright. However, you can purchase from us an equivalent document that does not include the credit.
