@@ -82,7 +82,6 @@ We may update this policy from time to time by publishing a new version on our w
 
 You may instruct us to provide you with any personal information we hold about you; provision of such information will be subject to:
 
-- the payment of a fee (currently fixed at GBP 10); and
 - the supply of appropriate evidence of your identity (for this purpose, we will usually accept a photocopy of your passport certified by a solicitor or bank plus an original copy of a utility bill showing your current address).
 
 We may withhold personal information that you request to the extent permitted by law. You may instruct us at any time not to process your personal information for marketing purposes. In practice, you will usually either expressly agree in advance to our use of your personal information for marketing purposes, or we will provide you with an opportunity to opt out of the use of your personal information for marketing purposes.
